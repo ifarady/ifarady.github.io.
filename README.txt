@@ -1,9 +1,9 @@
 This is the repository for my personal website, https://ifarady.com/ The content of this repository is owned by me.
 
+The website template used in this project was obtained from html5up.net, a website that provides free HTML5 templates for personal and commercial use. The template used in this project is Dimension by HTML5 UP. It is Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
 and a cool depth effect (click on a menu item to see what I mean). Simple, fully
