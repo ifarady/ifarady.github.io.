@@ -1,3 +1,5 @@
+# Personal Website Repository
+
 Welcome to the repository for my personal website, [ifarady.com](https://ifarady.com/)! This repository contains the source code for my website, including all text and images.
 
 ## Website Template
