@@ -8,6 +8,10 @@ The website template used in this project was obtained from [html5up.net](https:
 
 The Dimension template is licensed under the Creative Commons Attribution 3.0 (CCA 3.0) license, which permits free use, even for commercial purposes, as long as proper attribution is provided. To learn more about this license, please visit [html5up.net/license](https://html5up.net/license).
 
+## Purpose
+
+The purpose of this repository is to provide a centralized location for the source code of my personal website. It allows for version control, collaboration, and easy access to the underlying code that powers my website.
+
 ## Acknowledgements
 
 I would like to express my gratitude to [html5up.net](https://html5up.net/) and @ajlkn for creating and sharing the Dimension template, which served as the foundation for my website. Their efforts in providing high-quality, free templates are greatly appreciated.
