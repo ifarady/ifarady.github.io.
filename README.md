@@ -1,16 +1,12 @@
 # Personal Website Repository
 
-Welcome to the repository for my personal website, [ifarady.com](https://ifarady.com/)! This repository contains the source code for my website, including all text and images.
+Welcome to the repository for my personal website, [ifarady.com](https://ifarady.com/)! This repository contains the source code for my website, including all text and images. The purpose of this repository is to provide a centralized location for the source code of my personal website. It allows for version control, collaboration, and easy access to the underlying code that powers my website.
 
 ## Website Template
 
 The website template used in this project was obtained from [html5up.net](https://html5up.net/), a website that offers free HTML5 templates for personal and commercial use. The specific template used in this project is called Dimension, created by @ajlkn.
 
 The Dimension template is licensed under the Creative Commons Attribution 3.0 (CCA 3.0) license, which permits free use, even for commercial purposes, as long as proper attribution is provided. To learn more about this license, please visit [html5up.net/license](https://html5up.net/license).
-
-## Purpose
-
-The purpose of this repository is to provide a centralized location for the source code of my personal website. It allows for version control, collaboration, and easy access to the underlying code that powers my website.
 
 ## Acknowledgements
 
